@@ -1,2 +1,2 @@
-## Landind
-[demo](https://nadmot.github.io/landing/)
+## Landing
+[Demo](https://nadmot.github.io/landing/)
