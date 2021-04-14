@@ -1,3 +1,3 @@
 ## Landing
 
-[Demo](https://nadmot.github.io/landing/)
+[Demo](https://nadmot.github.io/landing)
